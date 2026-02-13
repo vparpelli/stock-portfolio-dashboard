@@ -106,4 +106,4 @@ if portfolio_dict:
             st.error(f"Stream interrupted: {e}")
             break
 else:
-    st.info("👈 Enter your tickers and shares in the sidebar
+    st.info("👈 Enter your tickers and shares in the sidebar")
